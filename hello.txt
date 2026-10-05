@@ -1,6 +1,6 @@
 Hello Git and Github!
 This is my experiment branch.
 This is a change made on master.
-This is a differet change from experiment.
+This is a different change from experiment.
 
 This is my first GitHub update!
